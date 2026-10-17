@@ -21,7 +21,7 @@ MSc Big Data Analytics graduate with a First Class BSc, returning to the field a
 - 🛒 **Vape stock management system** — Tracks 1,800+ SKUs with automated reorder logic
 - 🦠 **COVID-19 Diagnostic CNN** (BSc dissertation) — TensorFlow/Keras CNN with class-weighted training; 99.77% F1 and 100% COVID-19 recall on a 433-image test set from a 2,159-image Kaggle chest X-ray dataset, with dataset limitations discussed in the write-up <!-- TODO Kieran: write-up link -->
 - 🏃 **Human Activity Recognition model** (MSc dissertation) — Custom CNN combined with a pre-trained EfficientNetB0 branch to classify 15 activities from images; 60.79% test accuracy on 630 held-out images, with the write-up analysing the train/test gap and confusion between similar activities <!-- TODO Kieran: write-up link -->
-- 💬 **NLP sentiment classifier** (academic project) — Benchmarked five algorithm families (Naive Bayes, k-NN, decision tree, random forest, MLP) on IMDB movie-review sentiment
+- 💬 **NLP sentiment classifier** (academic project) — Benchmarked six algorithm families (Decision tree, k-NN, four Naive Bayes types, random forest, SVM and a neural network) on IMDB movie-review sentiment
 
 ### 🛠 Tech stack
 
