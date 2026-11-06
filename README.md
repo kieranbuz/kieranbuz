@@ -25,6 +25,13 @@ MSc Big Data Analytics graduate with a First Class BSc, returning to the field a
 - 🎮 **Video-game review sentiment** ([video-game-review-sentiment](https://github.com/kieranbuz/video-game-review-sentiment), BSc coursework) — Six scikit-learn classifiers compared on bag-of-words and sentiment-lexicon features from Amazon video-game reviews; best F-measure 0.8476 with an MLP neural network
 - 📊 **Smartphone activity visualisation** ([har-sensor-visualisation](https://github.com/kieranbuz/har-sensor-visualisation), MSc coursework) — PCA, t-SNE and LightGBM on the UCI HAPT sensor dataset; 93% activity prediction and per-person walking-style clusters, with interactive Plotly charts
 
+### 🗂️ More coursework
+
+- 📱 **MyMediCare health monitor** ([mymedicare-android](https://github.com/kieranbuz/mymedicare-android), BSc coursework) — Android app in Java that records blood pressure, temperature and heart rate in SQLite, rates each reading's risk and opens an SMS to an emergency contact for high-risk readings
+- 📚 **Text analysis of customer reviews** ([big-data-text-analysis](https://github.com/kieranbuz/big-data-text-analysis), MSc coursework) — NLTK bigram extraction and mutual-information ranking on Amazon reviews, POS-based word sense disambiguation, and decision tree and k-NN evaluation
+- ✋ **Gesture programming tutorials** ([gesture-programming-tutorials](https://github.com/kieranbuz/gesture-programming-tutorials), BSc coursework with Jacob) — Python and OpenCV app teaching basic programming through hand-gesture cursor control and voice commands
+- 📈 **Data visualisation** ([data-visualisation-coursework](https://github.com/kieranbuz/data-visualisation-coursework), MSc coursework) — pandas, seaborn and matplotlib charts of website traffic, board thickness and room temperature data
+
 ### 🛠 Tech stack
 
 `Python` `SQL` `TensorFlow` `Keras` `Scikit-Learn` `Pandas` `NumPy` `OpenCV`  
